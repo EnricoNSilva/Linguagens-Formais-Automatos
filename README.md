@@ -10,7 +10,6 @@ Repositório de estudos da disciplina de Linguagens Formais e Autômatos (LFA), 
 ## Estrutura
 
 - `src/`: códigos dos exercícios
-- `tests/`: casos de teste e exemplos de uso
 
 ## Como executar
 
